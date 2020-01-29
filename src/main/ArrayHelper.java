@@ -86,7 +86,7 @@ public class ArrayHelper {
 
     public static void main(String[] args) {
         int[] a = {8, 10, 1, 3, -5, 2, 16, 10, -12};
-        int threshold = 18;
+        int threshold = 20;
         int elem = 16;
         ArrayHelper.print(a);
         System.out.println("Sum of elements: " + ArrayHelper.sum(a));
